@@ -2,7 +2,9 @@
 
 🚀 Open-source tools to turn TV into a personalized discovery engine
 
-> 📼 Automatically find and record what matters to you
+📼 Automatically find and record what matters to you
+
+![Demo](docs/demo-select-freeboxos.gif)
 
 ---
 
