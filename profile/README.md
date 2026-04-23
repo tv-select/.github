@@ -8,6 +8,10 @@
 
 ---
 
+![Schema](docs/tv-select-eco-system.png)
+
+---
+
 ## 🎯 What is TV Select?
 
 TV Select is an **open-source ecosystem** that transforms TV into a **personalized discovery system**.
@@ -15,22 +19,22 @@ TV Select is an **open-source ecosystem** that transforms TV into a **personaliz
 No more scrolling.
 No more missing interesting content.
 
-👉 You define what you care about
-👉 The system finds it
-👉 And records it automatically
+👉 You define what you care about  
+👉 The system finds it  
+👉 And records it automatically  
 
 ---
 
 ## 🤯 The problem
 
-TV is broken.
+You’ve probably experienced this:
 
 * Endless channel surfing
 * Programs you miss
 * Content you didn't even know existed
 
-You don’t search TV.
-You *wait* for it.
+TV isn’t built for discovery.
+You don’t search it — you wait for it.
 
 ---
 
@@ -40,9 +44,9 @@ What if TV worked like a search engine?
 
 You tell it what you care about:
 
-wine
-history
-space
+* wine 🍷  
+* history 🏛️  
+* space 🚀  
 
 Or something more personal:
 
@@ -55,13 +59,13 @@ And it finds the content for you.
 
 ## ⚡ What happens next
 
-You do nothing.
+You don’t have to do anything.
 
-Behind the scenes:
+Behind the scenes, TV Select:
 
-* 🔍 TV Select scans all programs
-* 🎯 Detects matches
-* 📼 Records them automatically
+* 🔍 Scans all programs  
+* 🎯 Detects matches  
+* 📼 Records them automatically  
 
 ---
 
@@ -79,13 +83,9 @@ And maybe:
 * a tennis documentary your son will love 🎾
 
 You didn’t search for them.
-They found you.
+**They found you.**
 
 ---
-
-# 🌐 Which web app should I use?
-
-TV Select relies on a web interface to define your searches and manage your recordings.
 
 ## 💡 How it works
 
@@ -248,10 +248,10 @@ TV Select connects to multiple TV sources:
 
 ## 🚀 Get started
 
-1️⃣ Choose your version
-2️⃣ Install it
-3️⃣ Define your interests
-4️⃣ Let it run
+1️⃣ Choose your version  
+2️⃣ Install it  
+3️⃣ Define your interests  
+4️⃣ Let it run  
 
 👉 Your personal TV library builds itself
 
